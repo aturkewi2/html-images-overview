@@ -7,6 +7,8 @@ Images are added to a webpage with the `img` tag. Let's look at the below CodePe
 <iframe height='265' scrolling='no' title='HTML Images' src='//codepen.io/joemburgess/embed/rwjooK/?height=265&theme-id=0&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joemburgess/pen/rwjooK/'>HTML Images</a> by Joe Burgess (<a href='https://codepen.io/joemburgess'>@joemburgess</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
+making this lesson better
+
 On the left you will see the following code:
 
 ```html
@@ -33,3 +35,5 @@ Go ahead and change the HTML code to use this new URL like this:
 ```
 
 You should now see our circle logo instead of the full logo. Congratulations! You now know how to add images to websites using the `img` tag with a `src` attribute. Pretty cool :)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-images-overview'>Using Images in HTML</a> on Learn.co and start learning to code for free.</p>
